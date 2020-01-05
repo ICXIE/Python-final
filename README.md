@@ -2,7 +2,7 @@
 ## title：从国家GDP与工业排放来探究空气污染与两者得相关性
 ### intro：网站一共分为8个界面，其中包含图表交互和下拉框选择交互及控件跳转，接下来我们将从界面样式，HTML档，Python档及Web App动作这四个方面展开描述。
 #### [项目代码GitHub_URL](https://github.com/ICXIE/Python-final)
-#### [PythonAnywhere个人部署URL](https://github.com/ICXIE/Python-final)
+#### [PythonAnywhere个人部署URL]（http://icxie.pythonanywhere.com/)
 
 ---
 #### 界面样式
